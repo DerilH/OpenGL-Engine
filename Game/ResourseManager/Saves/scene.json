@@ -1,0 +1,50 @@
+{
+   "objectsCount" : 2,
+   "objects" : 
+   {
+      "Object0" : 
+      {
+         "position" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : 5.0
+         },
+         "rotationAngle" : 0.0,
+         "rotationAxis" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : 0.0
+         },
+         "size" : 
+         {
+            "x" : 1.0,
+            "y" : 1.0,
+            "z" : 1.0
+         }
+      },
+      "Object1" : 
+      {
+         "position" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : -5.0
+         },
+         "rotationAngle" : 0.0,
+         "rotationAxis" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : 0.0
+         },
+         "size" : 
+         {
+            "x" : 1.0,
+            "y" : 1.0,
+            "z" : 1.0
+         }
+      }
+   }
+}

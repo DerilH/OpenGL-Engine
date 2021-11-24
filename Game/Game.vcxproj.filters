@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Temp">
+      <UniqueIdentifier>{02660274-b214-4f77-8f86-b92df156d7bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Rendering">
+      <UniqueIdentifier>{d6977119-50b1-43e8-b22b-875b6e3b2794}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Rendering">
+      <UniqueIdentifier>{e73a3fd3-3ef9-4017-b023-847a4bf26454}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Rendering\Primitives">
+      <UniqueIdentifier>{8a202596-9d3e-4008-90e8-e73cb3c1020d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Rendering\Lighting">
+      <UniqueIdentifier>{bfddec00-4bdb-4b8c-b4e7-26f69fddd19a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Rendering\Primitives">
+      <UniqueIdentifier>{52c09c93-f556-44e7-b607-108717fc775c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Rendering\Lighting">
+      <UniqueIdentifier>{8ddb5f5a-652f-44b6-ab47-c848db655823}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Window">
+      <UniqueIdentifier>{d33b94dd-c5ab-4ee6-8b0f-e6919d2655d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Window">
+      <UniqueIdentifier>{8ddf7802-3883-4bc3-921a-5c8cf2d45a3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="json">
+      <UniqueIdentifier>{7ea9c3d3-4b35-45f9-a366-3473aaf0f404}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\ResourceManager">
+      <UniqueIdentifier>{f5d6889c-4686-42b9-b238-d1cba19a0674}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\ResourceManager">
+      <UniqueIdentifier>{e707f603-5e9b-4e55-9a27-6f72b0b9ec4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\AdditionalClasses">
+      <UniqueIdentifier>{9b6f8880-deb7-4596-a89f-01f1635b6ee5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include headers">
+      <UniqueIdentifier>{148be3ad-4952-466e-9ddf-50e6ccf918a4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderPipeline.cpp">
+      <Filter>Исходные файлы\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="CubeRenderer.cpp">
+      <Filter>Исходные файлы\Rendering\Primitives</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Исходные файлы\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>Исходные файлы\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleCommandHandler.cpp">
+      <Filter>Исходные файлы\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="InputHandler.cpp">
+      <Filter>Исходные файлы\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\jsoncpp-master\dist\jsoncpp.cpp">
+      <Filter>json</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourseManager\ResourceManager.cpp">
+      <Filter>Исходные файлы\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourseManager\Texture.cpp">
+      <Filter>Исходные файлы\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="SpotLight.cpp">
+      <Filter>Исходные файлы\Rendering\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectedLight.cpp">
+      <Filter>Исходные файлы\Rendering\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="PointLight.cpp">
+      <Filter>Исходные файлы\Rendering\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourseManager\Shader.cpp">
+      <Filter>Исходные файлы\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderingObject.cpp">
+      <Filter>Исходные файлы\Rendering\Primitives</Filter>
+    </ClCompile>
+    <ClCompile Include="LightObject.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RenderPipeline.h">
+      <Filter>Файлы заголовков\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourseManager\Shader.h">
+      <Filter>Файлы заголовков\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="CubeRenderer.h">
+      <Filter>Файлы заголовков\Rendering\Primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderingObject.h">
+      <Filter>Файлы заголовков\Rendering\Primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Файлы заголовков\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>Файлы заголовков\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="InputHandler.h">
+      <Filter>Файлы заголовков\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleCommandHandler.h">
+      <Filter>Файлы заголовков\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\jsoncpp-master\dist\json\json.h">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\jsoncpp-master\dist\json\json-forwards.h">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourseManager\Texture.h">
+      <Filter>Файлы заголовков\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourseManager\ResourceManager.h">
+      <Filter>Файлы заголовков\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix Classes\ModelMatrix.h">
+      <Filter>Файлы заголовков\AdditionalClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix Classes\ViewMatrix.h">
+      <Filter>Файлы заголовков\AdditionalClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix Classes\ProjectionMatrix.h">
+      <Filter>Файлы заголовков\AdditionalClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="LightObject.h">
+      <Filter>Файлы заголовков\Rendering\Lighting</Filter>
+    </ClInclude>
+    <ClInclude Include="SpotLight.h">
+      <Filter>Файлы заголовков\Rendering\Lighting</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectedLight.h">
+      <Filter>Файлы заголовков\Rendering\Lighting</Filter>
+    </ClInclude>
+    <ClInclude Include="PointLight.h">
+      <Filter>Файлы заголовков\Rendering\Lighting</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

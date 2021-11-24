@@ -1,0 +1,226 @@
+{
+   "objects" : 
+   {
+      "Object0" : 
+      {
+         "position" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : 5.0
+         },
+         "rotationAngle" : 0.0,
+         "rotationAxis" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : 0.0
+         },
+         "size" : 
+         {
+            "x" : 1.0,
+            "y" : 1.0,
+            "z" : 1.0
+         }
+      },
+      "Object1" : 
+      {
+         "position" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : -5.0
+         },
+         "rotationAngle" : 0.0,
+         "rotationAxis" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : 0.0
+         },
+         "size" : 
+         {
+            "x" : 1.0,
+            "y" : 1.0,
+            "z" : 1.0
+         }
+      },
+      "Object2" : 
+      {
+         "position" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : 0.0
+         },
+         "rotationAngle" : 0.0,
+         "rotationAxis" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : 0.0
+         },
+         "size" : 
+         {
+            "x" : 1.0,
+            "y" : 1.0,
+            "z" : 1.0
+         }
+      },
+      "Object3" : 
+      {
+         "position" : 
+         {
+            "x" : 1.0,
+            "y" : 1.0,
+            "z" : 1.0
+         },
+         "rotationAngle" : 0.0,
+         "rotationAxis" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : 0.0
+         },
+         "size" : 
+         {
+            "x" : 1.0,
+            "y" : 1.0,
+            "z" : 1.0
+         }
+      },
+      "Object4" : 
+      {
+         "position" : 
+         {
+            "x" : 4.0,
+            "y" : 3.0,
+            "z" : 1.0
+         },
+         "rotationAngle" : 0.0,
+         "rotationAxis" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : 0.0
+         },
+         "size" : 
+         {
+            "x" : 1.0,
+            "y" : 1.0,
+            "z" : 1.0
+         }
+      },
+      "Object5" : 
+      {
+         "position" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : 0.0
+         },
+         "rotationAngle" : 0.0,
+         "rotationAxis" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : 0.0
+         },
+         "size" : 
+         {
+            "x" : 1.0,
+            "y" : 1.0,
+            "z" : 1.0
+         }
+      },
+      "Object6" : 
+      {
+         "position" : 
+         {
+            "x" : 2.0,
+            "y" : 2.0,
+            "z" : 2.0
+         },
+         "rotationAngle" : 0.0,
+         "rotationAxis" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : 0.0
+         },
+         "size" : 
+         {
+            "x" : 1.0,
+            "y" : 1.0,
+            "z" : 1.0
+         }
+      },
+      "Object7" : 
+      {
+         "position" : 
+         {
+            "x" : 3.0,
+            "y" : 3.0,
+            "z" : 3.0
+         },
+         "rotationAngle" : 0.0,
+         "rotationAxis" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : 0.0
+         },
+         "size" : 
+         {
+            "x" : 1.0,
+            "y" : 1.0,
+            "z" : 1.0
+         }
+      },
+      "Object8" : 
+      {
+         "position" : 
+         {
+            "x" : 4.0,
+            "y" : 4.0,
+            "z" : 4.0
+         },
+         "rotationAngle" : 0.0,
+         "rotationAxis" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : 0.0
+         },
+         "size" : 
+         {
+            "x" : 1.0,
+            "y" : 1.0,
+            "z" : 1.0
+         }
+      },
+      "Object9" : 
+      {
+         "position" : 
+         {
+            "x" : 5.0,
+            "y" : 5.0,
+            "z" : 5.0
+         },
+         "rotationAngle" : 0.0,
+         "rotationAxis" : 
+         {
+            "x" : 0.0,
+            "y" : 0.0,
+            "z" : 0.0
+         },
+         "size" : 
+         {
+            "x" : 1.0,
+            "y" : 1.0,
+            "z" : 1.0
+         }
+      }
+   },
+   "objectsCount" : 10
+}
